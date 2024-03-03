@@ -2,7 +2,6 @@
 <h3 align="center">An okay developer</h3>
 
 - 🔭 I’m currently working as a full-time Flutter developer
-- 💪 Freelancing as a Flutter developer as well
 - 👨‍💻 Trying to get into web development in my free time
 
 <p align="left">
