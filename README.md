@@ -1,11 +1,29 @@
-<h1 align="center">Hi 👋, I'm Jazz</h1>
-<h3 align="center">An okay developer</h3>
+# Hi there! 👋 I'm Jazz
+## 🤓 About Me  
+🙋‍♂️ **Name:** Jazz Sim Jia Shen  
+💰 **Profession:** Software Engineer  
+👾 **Tech Stack:** Flutter, Laravel, Node.js  
+👨‍💻 **Currently Learning:** Data Engineering, React  
+🔮 **Interests:** 🚀 Keeping up with tech | 🎮 Rogue-lite & Open World | 📖 Classics and Memoir | 🧩 Just like a fulfilling life—one piece at a time   
 
-- 🔭 I’m currently working as a full-time Flutter developer
-- 👨‍💻 Trying to get into web development in my free time
+---
 
-<p align="left">
-</p>
+## 🛠 Tech Stack  
+💻 **Languages:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)  
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+🛠 **Tools & Frameworks:**  
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)  
+
+📊 **Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)  
+
+---
+
+## 📧 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jia-shen-sim)  
